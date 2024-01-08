@@ -1,0 +1,11 @@
+Key: (4, 19), Potion type: Health
+Key: (4, 24), Potion type: Health
+Key: (4, 61), Potion type: Health
+Key: (10, 38), Potion type: Health
+Key: (10, 66), Potion type: Health
+Key: (11, 67), Potion type: Health
+Key: (12, 41), Potion type: Health
+Key: (12, 44), Potion type: Health
+Key: (20, 71), Potion type: Health
+Key: (21, 19), Potion type: Health
+past start
